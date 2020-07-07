@@ -13,9 +13,25 @@ Code is written in Python on Jupyter Notebooks, but it is best to run any resear
 
 ### Analysis
 
-Following are some of the securities, mathematical strategies, and visualization techniques used throughout the project: 
+Following are some of the mathematical strategies, visualization techniques and financial securities used throughout the project: 
 - Correlation Matrix
 - Linear Regression
+- CAPM
+- Box Plots
+- Efficient Frontier
+- Monte Carlo Simulation
+- Bollinger Bands
+- Futures
+- Leveraging
+- Hedging
+- Sentiment Analaysis
 
 
 ### Libraries and Other Tools used
+- Pandas
+- Numpy
+- Matplotlib
+- Quandl
+- Quantopian
+- Sentdex Sentiment Data
+- PyFolio
