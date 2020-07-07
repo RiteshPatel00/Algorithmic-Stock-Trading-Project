@@ -1,5 +1,7 @@
 # Stock-Market-Analysis-Project
 
+![Alt Text](https://www.tradersdna.com/wp-content/uploads/2018/12/forex-trading-1-1024x576.jpg)
+
 
 ## Summary
 
